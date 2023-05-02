@@ -1,0 +1,53 @@
+General:
+System ID:	100-1100-1142
+Start Time:	3:04:29 PM
+Start Date:	Wednesday, March 01, 2023
+Duration:	0h 6m 33s
+User Name:	user
+Sample Name:	Mg-MOF 74
+Configuration:	Raman CCD1
+
+UHTS300S_VIS:
+Excitation Wavelength [nm]:	632.810
+Grating:	G2: 600 g/mm BLZ 500.00 nm
+Start Wavelength [nm]:	632.810
+Stop Wavelength [nm]:	847.276
+Start Position [rel. 1/cm]:	0.000
+Stop Position [rel. 1/cm]:	4000.000
+
+DU970_BVF:
+Serial Number:	17552
+Readout Mode:	Single Track (1-20)
+Output Amplifier:	Conventional
+Vertical Shift Speed [µs]:	9.75
+Horizontal Shift Speed [MHz]:	0.050
+Preamplifier Gain:	4.00
+Cycle Time [sec]:	0.63889
+Sensor Temperature [°C]:	-59
+
+Number Of Accumulations:	100
+Integration Time [s]:	0.50000
+
+Objective:
+Objective Name:	Zeiss LD Plan-Neofluar 63x / 0.75
+Objective Magnification:	63.0
+
+Sample Location (global position):
+Position X [µm]:	-2472.100
+Position Y [µm]:	-1007.200
+Position Z [µm]:	8.520
+
+[Header]
+FileName = D:\User\WITec\Measurements\MOFs\101.1677690082 (...).wip
+GraphName = Mg-MOF 74--Spectrum Stitch--021--DU970_BVF (Sub BG) (Norm)
+SizeX = 1
+SizeY = 1
+SizeGraph = 2768
+PositionUnit = µm
+PositionX = -2472.09999997672
+PositionY = -1007.19999997672
+PositionZ = 8.52
+XAxisUnit = rel. 1/cm
+DataUnit = CCD cts
+
+Laser Power = 1mW

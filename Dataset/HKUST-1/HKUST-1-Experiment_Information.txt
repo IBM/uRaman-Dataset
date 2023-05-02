@@ -1,0 +1,54 @@
+General:
+System ID:	100-1100-1142
+Start Time:	4:39:48 PM
+Start Date:	Tuesday, February 14, 2023
+Duration:	0h 5m 28s
+User Name:	user
+Sample Name:	Basolite C300 - Control
+Configuration:	Raman CCD1
+
+UHTS300S_VIS:
+Excitation Wavelength [nm]:	531.970
+Grating:	G2: 600 g/mm BLZ 500.00 nm
+Start Wavelength [nm]:	531.970
+Stop Wavelength [nm]:	675.765
+Start Position [rel. 1/cm]:	0.000
+Stop Position [rel. 1/cm]:	4000.000
+
+DU970_BVF:
+Serial Number:	17552
+Readout Mode:	Single Track (1-20)
+Output Amplifier:	Conventional
+Vertical Shift Speed [µs]:	9.75
+Horizontal Shift Speed [MHz]:	0.050
+Preamplifier Gain:	4.00
+Cycle Time [sec]:	0.63889
+Sensor Temperature [°C]:	-59
+
+Number Of Accumulations:	100
+Integration Time [s]:	0.50000
+
+Objective:
+Objective Name:	Zeiss LD Plan-Neofluar 63x / 0.75
+Objective Magnification:	63.0
+
+Sample Location (global position):
+Position X [µm]:	334.300
+Position Y [µm]:	1729.300
+Position Z [µm]:	-6.250
+
+//Exported ASCII-File
+[Header]
+FileName = D:\User\WITec\Measurements\MOFs\in situ experiments\101.1675950455 (...).wip
+GraphName = Basolite C300 - Control--Spectrum Stitch--008--DU970_BVF
+SizeX = 1
+SizeY = 1
+SizeGraph = 1806
+PositionUnit = µm
+PositionX = 334.300000023283
+PositionY = 1729.30000002328
+PositionZ = -6.25
+XAxisUnit = rel. 1/cm
+DataUnit = CCD cts
+
+Laser Power = 1mW
