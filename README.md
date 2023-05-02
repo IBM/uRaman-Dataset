@@ -7,7 +7,7 @@ This dataset consists of CSV files containing Raman spectroscopy spectra of Meta
 * ZIF-8 ([Basolite Z1200](https://www.sigmaaldrich.com/BR/pt/product/aldrich/691348))
 * Mg-MOF74
 
-![Plot](https://github.ibm.com/m-estevesf/uRaman-Dataset/blob/main/Dataset/All.jpg)
+![Plot](https://github.com/IBM/uRaman-Dataset/blob/main/Dataset/All.jpg)
 
 ---
 
